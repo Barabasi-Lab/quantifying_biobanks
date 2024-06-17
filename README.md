@@ -4,6 +4,8 @@ Accompanying code to produce and analyze the data from the paper _Quantifying th
 
 The associated data can be found in the corresponding [Zenodo Repository](10.5281/zenodo.11671293).
 
+The documentation to run the code is found in the PDF file `documentation.pdf`.
+
 # Datasrouces
 
 Several repositories were used to extract the names of biobanks and associated cohort studies, their mentions across biomedical documents, and their validation.
