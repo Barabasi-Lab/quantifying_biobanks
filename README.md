@@ -2,7 +2,7 @@
 
 Accompanying code to produce and analyze the data from the paper _Quantifying the Impact of Biobanks and Cohort Studies_.
 
-The associated data can be found in the corresponding [Zenodo Repository](10.5281/zenodo.11671293).
+The associated data can be found in the corresponding [Zenodo Repository](https://zenodo.org/records/11671294).
 
 The documentation to run the code is found in the PDF file `documentation.pdf`.
 
